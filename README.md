@@ -1,7 +1,5 @@
 # Toggle Navigation - Sorting Algorithms & Big O
 
-![Toggle Navigation](https://your-project-image-url)
-
 Welcome to the Toggle Navigation project for Sorting Algorithms and Big O! This project is to be completed in teams of 2 people, and your team members are Margaret Maina. In this project, you will learn about various sorting algorithms, the Big O notation to evaluate the time complexity of algorithms, and how to select the best sorting algorithm for a given input.
 
 ## Learning Objectives
@@ -31,13 +29,6 @@ By the end of this project, you should be able to explain the following concepts
 - A list/array does not need to be sorted if its size is less than 2.
 - There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
-### Resources
-
-Before starting the project, make sure to read or watch the following resources:
-
-- Sorting algorithm
-- Big O notation
-- Sorting algorithms animations
 
 ### Data Structure and Functions
 
